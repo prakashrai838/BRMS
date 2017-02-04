@@ -31,6 +31,7 @@ public class DecisionTableTest {
 
         public static final int HELLO = 0;
         public static final int GOODBYE = 1;
+        public static final int TRUE =1;
 
         private String message;
 
